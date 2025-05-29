@@ -20,8 +20,12 @@ The objective is to visualize and discover the correlation between wait time and
 
 
 
+Summary of Findings:
+There is a **strong positive correlation** between the wait time and the duration of Old Faithful geyser eruptions. In general, the **longer the wait time**, the **longer the eruption**. The final linear regression model supports this relationship, showing a clear upward trend between the two variables.
 
-Description of the data and response variable:$
+
+
+Description of the data and response variable:
 This data set contains the waiting time between eruptions and the duration of the eruption for the Old Faithful geyser in Yellowstone National Park, Wyoming, USA. The data frame has two columns with one variable being the wait time named "waiting" and the second variable being the eruptions duration called "eruptions".
 
 The independent variable in this data set is the wait time and the dependent, or response, variable is the eruption duration.
