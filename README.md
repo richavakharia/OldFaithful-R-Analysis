@@ -1,4 +1,4 @@
-# Old Faithful Geyser Data Analysis
+# Old Faithful Geyser Data Analysis (R)
 
 This project explores the relationship between the eruption duration and wait time of the Old Faithful geyser using R.
 
